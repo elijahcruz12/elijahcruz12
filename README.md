@@ -3,7 +3,7 @@
 
 I'm Eli! I'm a web developer, twitch streamer, discord/twitch bot developer, video editor, graphic designer, and more!
 
-Currently working on [ECFreelance](https://ec-freelance.com).
+Currently working on [Ectoplasmic Solutions](https://ectoplasmic-solutions.com).
 
 [![elijahcruz12's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahcruz12&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
